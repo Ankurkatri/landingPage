@@ -1,0 +1,163 @@
+@font-face {
+  font-family:FerroRosso format('truetype');
+  src: url(fonts/FerroRosso.ttf) format('opentype');
+}
+
+
+#title{
+  background-color: #EEEDDE;
+  position: relative;
+  margin-bottom: -12rem;
+
+}
+#tagline{
+ font-family: "Ubuntu", sans-serif;
+  font-size: 4rem;
+ line-height:1.5;
+  padding-top: 8rem;
+  padding-left: 5rem;
+  margin-left: 10rem;
+  margin-top:2rem;
+}
+.virat1{
+  height: 50rem;
+  width: 35rem;
+  position: absolute;
+  margin: auto auto -12rem 50px;
+
+}
+#bt1{
+  font-family: 'Ramaraja', serif;
+  margin-left: 16rem;
+  margin-top: 1rem;
+  margin-bottom: 26rem;
+}
+#bt2{
+  font-family: 'Ramaraja', serif;
+  margin-left: 1rem;
+  margin-bottom: 25rem;
+}
+.Container{
+  padding: 3% 5% 0 5%;
+
+}
+/* navbar */
+.navbar{
+  margin:auto 5rem;
+}
+.navbar-brand{
+  font-family:"Inspiration",sans-serif;
+  font-size: 4.5rem;
+}
+.nav-link{
+  font-family: "Ramaraja",sans-serif;
+  font-size: 1.2rem;
+}
+
+/* Features */
+
+#F1{
+  font-family: "Lobster",sans-serif;
+  padding-top: 1.5rem;
+  color: white;
+}
+#P1{
+  font-family: "Amiri",sans-serif;
+  color: white;
+}
+
+.icon{
+  color:white;
+}
+.icon:hover{
+  color:#086E7D;
+}
+#features{
+  padding: 3% 5%;
+  text-align: center;
+  background-color:black;
+  position: relative;
+  z-index: 1;
+
+}
+
+/* Testimonials */
+
+#testimonials{
+  text-align: center;
+  background-color: #DFDFDE;
+
+}
+
+
+.card-head{
+  background-color: grey;
+  color:white;
+}
+.card{
+  text-align: center;
+
+}
+p{
+  font-family: "Merriweather",sans-serif;
+}
+.pricing-column{
+  padding: 5% 30px;
+
+}
+h2{
+  font-family: "Ubuntu",sans-serif;
+}
+#pricing{
+  text-align: center;
+}
+.head1{
+  font-size: 3rem;
+  margin: 3% auto;
+  font-family: "Lobster",sans-serif;
+}
+
+/* footer */
+
+#cta{
+text-align: center;
+background-color: black;
+padding-top: 3rem;
+
+}
+#ae{
+  font-family: "Montserrat",sans-serif;
+  font-weight: "bold";
+  color:white;
+}
+#kat{
+margin: 3% 3%;
+}
+
+#footer{
+  color:grey;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+#Copyright2{
+  margin:3rem auto;
+  font-size: 15px;
+}
+#ko{
+  height: 15rem;
+  weight: 15rem;
+  margin-bottom: 5rem;
+}
+#quote{
+  font-family: "Montserrat",sans-sans-serif;
+
+}
+#testimonials{
+  background-color: grey;
+}
+#name1{
+  text-align: center;
+  font-family:"Montserrat",sans-serif;
+    margin: auto auto 5rem auto;
+}
